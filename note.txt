@@ -1,0 +1,30 @@
+-FUEL 
+@fuel_network
+ 
+-Karak 
+@Karak_Network
+ 
+-SWAN for those that have bridged in 
+@swan_chain
+ 
+-Hyperlane 
+@hyperlane
+ 
+-Jump interacting on it 
+@JumperExchange
+ 
+-Scroll 
+@Scroll_ZKP
+ 
+-YAY 
+@Yay_Global
+ 
+
+- Blood pressure 
+- Blood sugar 
+- Blood fat
+- Liver function test ( especially if you take Alcohol)
+- Electrolyte, Urea & Creatinine ( your kidney)
+- HIV, Hepatitis B 
+- Urine test
+- Get your vaccine
